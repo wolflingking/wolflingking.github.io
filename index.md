@@ -1,3 +1,14 @@
+### Thoughts
+
+1.重整化群和fractal TI 的关联 https://doi.org/10.1103/PhysRevB.105.205139  https://doi.org/10.1103/PhysRevB.105.L201301
+
+2.[Non-Hermitian spatial symmetry](https://doi.org/10.1103/PhysRevLett.128.226401)
+
+3.[hinge states under deformation of boundary without a sharp hinge](https://arxiv.org/pdf/2206.00713.pdf)
+
+4.[Robust quantum boomerang effect](https://arxiv.org/pdf/2206.02922.pdf) not sure
+
+
 ---
 title: About Alembic
 feature_text: |
