@@ -1,8 +1,7 @@
 ---
-title: About Alembic
-feature_text: |
-  ## Wang Zihao's Homepage
-  I solemnly swear that the content here are not even wrong
+feature_text:
+## Wang Zihao's Homepage
+I solemnly swear that the content here are not even wrong
 feature_image: "https://picsum.photos/1300/400?image=989"
 
 ---
